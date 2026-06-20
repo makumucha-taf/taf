@@ -527,7 +527,7 @@ footer p{
     }
 }
 
-/*footer media query*/
+/*footer med query*/
 @media (max-width: 991px){
     footer{
         padding: 40px;
